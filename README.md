@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 1, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Brianna Bell)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I created a photo gallery using many different types of attributes and JavaScript)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://blb17d.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Browser Object Model (BOM) creates a hiearchy of objects and each of these objects provide program access to different parts of a webserver.
+2. Document Object Model shows an example of application programming interface. It contains all of the elements of a web page. Javascript elements are represented by their own objects.
+3. Learning about opening and closing web windows. When a new browser is opened, a new window object is created and represents the new window.  Someone may open a new browser because to launch a new web page or to use a new window to view additional information.
